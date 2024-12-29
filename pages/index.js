@@ -1,4 +1,4 @@
 function Home(){
-    return <h1>Teste de Deploy</h1>
+    return <h1>Brenda é a melhor irmã do mundo ❤️</h1>
 }
 export default Home;
